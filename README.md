@@ -1,3 +1,12 @@
+## Installation
+
+    sudo autoreconf -i
+    sudo ./configure
+    sudo make
+    sudo make install
+
+## Old Readme
+
 This is a collection of stuff for publishing states from joystick-type devices on ach channels.  
 For basic library calls to read these devices, see js.c/h, and snbasic. 
 
