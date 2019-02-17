@@ -4,9 +4,6 @@
 
 !README.md
 
-!CMakeLists.txt
-
-!/.deps/
 !/include/
 !/m4/
 !/scripts/
@@ -14,11 +11,9 @@
 !COPYING
 !ChangeLog
 !INSTALL
-!Makefile
 !Makefile.am
 !NEWS
 !README
-!README.md
 !compile
 !configure.ac
 !jach_listen_and_print.c
@@ -26,4 +21,3 @@
 !joyd_c
 !js.c
 !snachd.c
-
